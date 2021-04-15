@@ -18,7 +18,7 @@ Desafio feito no Bootcamp da Digital Innovation One.
 
 O objetivo desse desavio foi criar um algoritmo simples de transferência bancária para exercer o pensamento orientado a objetos. 
 
-Foram usados conceitos de DDD e Clean Architecture. Para criar uma entidade composta, usando obejtos de valor.
+Foram usados conceitos de DDD e Clean Architecture. Para criar uma entidade composta, usando objetos de valor.
 
 A aplicação foi separada em camadas com responsabilidades bem definidas: camada de Domínio com Interfaces, camada de Serviços e Camada de Aplicação.
 
